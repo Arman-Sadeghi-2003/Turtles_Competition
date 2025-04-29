@@ -22,7 +22,9 @@ Soon
 ## 🚀 How to Run
 
 1. Make sure you have **Python 3.x** installed.
-2. Run the script:
+2. Clone this Repository on your device.
+3. Open Command Prompt in the project directory.
+4. Run the script:
 
    ```bash
-   python turtle_race.py
+   python '.\Turtles competition.py'
