@@ -4,8 +4,7 @@ A fun Python turtle graphics racing game where four turtles compete in a multi-l
 
 ## 📷 Screenshot
 
-*(You can add a screenshot here by uploading an image and linking it like this:)*  
-`![Turtle Competition Screenshot](screenshot.png)`
+Soon
 
 ## 🎮 Features
 
